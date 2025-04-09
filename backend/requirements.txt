@@ -1,0 +1,28 @@
+# Core Django
+Django>=4.2
+
+# Django REST Framework
+djangorestframework>=3.14.0
+
+# JWT Authentication
+djangorestframework-simplejwt>=5.3.0
+
+# User registration/auth via REST
+dj-rest-auth>=3.0.0
+django-allauth>=0.55.0
+
+# PostgreSQL database adapter
+psycopg2-binary>=2.9.9
+
+# CORS handling
+django-cors-headers>=4.3.1
+
+# Environment variables
+python-dotenv>=1.0.1
+
+# API Documentation
+drf-yasg>=1.21.7
+
+# Optional testing & dev tools
+pytest-django>=4.8.0
+coverage>=7.4.1
